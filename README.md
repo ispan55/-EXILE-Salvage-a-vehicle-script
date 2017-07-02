@@ -1,4 +1,4 @@
-Salvage a vehicle script
+Player corpse falls from destroyed vehicle script 
 
 Created by Serveratze
 
